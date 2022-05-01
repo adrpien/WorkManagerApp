@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkManagerApp</string>
+    <string name="criteria">Criteria</string>
+    <string name="battery_charging">Battery charging</string>
+    <string name="battery_level_high">Battery level high</string>
+    <string name="network_enabled">Network enabled</string>
+    <string name="submit">Submit</string>
+</resources>
